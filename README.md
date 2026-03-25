@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm Shubham<br><br>I'm a passionate front-end developer currently focused on building modern, responsive web applications. I enjoy turning ideas into interactive and user-friendly experiences.<br><br>💻 Currently learning: React.js<br>🌱 Strong in: HTML, CSS, Bootstrap, JavaScript<br>☕ Basic knowledge of: Core Java & MySQL<br>🚀 Interested in: Frontend development, UI/UX design, and web technologies<br>🤝 Open to: Internships, collaborations, and open-source contributions<br><br>I’m constantly improving my skills and love working on projects that challenge me to grow as a developer.
+# 👋 Hi there! I'm Shubham Gaikwad <br><br>
+I'm a passionate front-end developer currently focused on building modern, responsive web applications. I enjoy turning ideas into interactive and user-friendly experiences.<br><br>💻 Currently learning: React.js<br>🌱 Strong in: HTML, CSS, Bootstrap, JavaScript<br>☕ Basic knowledge of: Core Java & MySQL<br>🚀 Interested in: Frontend development, UI/UX design, and web technologies<br>🤝 Open to: Internships, collaborations, and open-source contributions<br><br>I’m constantly improving my skills and love working on projects that challenge me to grow as a developer.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,7 @@
 
 
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
